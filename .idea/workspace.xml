@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c253dae-791c-45cc-8fb8-fc4358704bc4" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2VLL6KUr880kR2bRJmN1if3Amob" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaProject/Java_Basic_Introduction-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9c253dae-791c-45cc-8fb8-fc4358704bc4" name="更改" comment="" />
+      <created>1694610237166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694610237166</updated>
+      <workItem from="1694610239597" duration="3972000" />
+      <workItem from="1695569112755" duration="196000" />
+      <workItem from="1695662144775" duration="7965000" />
+      <workItem from="1695734790171" duration="2290000" />
+      <workItem from="1695746341646" duration="6366000" />
+      <workItem from="1695980856123" duration="2620000" />
+      <workItem from="1695998626224" duration="7561000" />
+      <workItem from="1696345044022" duration="1187000" />
+      <workItem from="1696355263131" duration="3905000" />
+      <workItem from="1696605324396" duration="908000" />
+      <workItem from="1696928868875" duration="319000" />
+      <workItem from="1697026099441" duration="250000" />
+      <workItem from="1697031274576" duration="619000" />
+      <workItem from="1697694189509" duration="517000" />
+      <workItem from="1697694885243" duration="1184000" />
+      <workItem from="1697785703698" duration="2225000" />
+      <workItem from="1697868859306" duration="242000" />
+      <workItem from="1697869765772" duration="594000" />
+      <workItem from="1697990690615" duration="1188000" />
+      <workItem from="1698243941685" duration="594000" />
+      <workItem from="1698248695241" duration="589000" />
+      <workItem from="1698676457037" duration="602000" />
+      <workItem from="1699543356530" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
